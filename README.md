@@ -125,4 +125,6 @@ We use [#mentorship-system](https://anitab-org.zulipchat.com/#narrow/stream/2225
 
 ## License
 
+Test test test 
+
 Mentorship System is licensed under the GNU General Public License v3.0. Learn more about it in the [LICENSE](LICENSE) file.
